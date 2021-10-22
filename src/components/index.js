@@ -11,3 +11,8 @@
  * 
  * Re-export Feature, Loading, Preview, Search, and Title from their respective files
  */
+// export { default as Feature } from './components/Feature';
+// export { default as Loading } from './components/Loading';
+// export { default as Preview } from './components/Preview';
+export { default as Search } from './components/Search';
+// export { default as Title } from './components/Title';

@@ -69,4 +69,4 @@ const Preview = (props) => {
   </aside>
 }
 
-export default Preview;
+export {default as Preview} from '.components/Preview';
